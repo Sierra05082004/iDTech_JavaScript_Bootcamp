@@ -1,2 +1,2 @@
 # JavaScript Bootcamp
-In this lesson, we are learning the github workflow. 
+This is my JavaScript github portfolio. This portfolio is formed by some of the most important assignments that were done by me during this course. 
