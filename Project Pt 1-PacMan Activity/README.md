@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+This was a very fun activity because we needed to make a moving image of Pacman to turn around when he hit the walls. To do this, we used the position of the image and added the width of Pacman in order to determine when he hit the wall. When this happened, the direction was inverted and this was inside an infinite loop. 

@@ -1,1 +1,2 @@
 # Debugging Activity
+In this assignment we were provided with an HTML file that was built from 4 different programs in js. Each program had to preform a specific task but they all had errors preventing them to run successfully. The idea was for you to find the mistakes/debug the programs in order for them to perform their tasks correctly.

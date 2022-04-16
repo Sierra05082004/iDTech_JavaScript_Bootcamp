@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+Here we had to transform an array into a sentence within a single variable. To do this, we started with an array of words and we had to create a loop for every element in the array to be added to a string variable. Therefore, at the end we were left with a single sentence to be printed out.

@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+This exercise consisted of making a creative story but using different data type variables in the construction of it. First we needed to declare different variables with different data types and at the end we needed to print out everything including the initial variables to create a story. 
